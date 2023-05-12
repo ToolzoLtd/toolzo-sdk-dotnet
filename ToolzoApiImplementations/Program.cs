@@ -9,9 +9,9 @@ public static class Program
     {
         var config = new AuthConfig
         {
-            ApiKey     = "f08b606e74244d4d953997cba0ac6961",
-            SecretKey  = "dKcJsti59oFmyXEbZ/JclPr0HZpRYeY1aVSH4f45Ka5scWxEwAdGbrRZStLpaQdjAOdgAa+X3FZtmCur0/HsvQ==",
-            Host       = "https://s3.tlzdevstage.com",
+            ApiKey     = "your apikey",
+            SecretKey  = "your secret key",
+            Host       = "pay.toolzo.com",
             ApiVersion = "1"
         };
         
