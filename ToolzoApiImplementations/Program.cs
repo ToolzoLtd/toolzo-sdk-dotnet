@@ -1,5 +1,4 @@
 ﻿using ToolzoApiImplementations.Domain;
-using ToolzoApiImplementations.Examples;
 
 namespace ToolzoApiImplementations;
 
@@ -11,7 +10,7 @@ public static class Program
         {
             ApiKey     = "your apikey",
             SecretKey  = "your secret key",
-            Host       = "pay.toolzo.com",
+            Host       = "https://pay.toolzo.com",
             ApiVersion = "1"
         };
         
